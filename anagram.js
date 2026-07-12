@@ -20,3 +20,4 @@ var result = isAnagram("Means","Manes");
 
 console.log(result);
 console.log("New branch");
+console.log("checking");
